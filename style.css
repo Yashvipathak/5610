@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: darksalmon;
+}
+div{
+    margin-top: 15px;
+}
+.section-style{
+    margin-right: 5px;
+    margin-left: 5px;
+    
+}
+.pic{
+    height: 400px;
+    width: 500px;
+}
+h1{
+    text-decoration:underline;
+}
+p{
+    font-weight: bold;
+    font-size: 22px;
+}
